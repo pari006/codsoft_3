@@ -73,5 +73,5 @@ pip install pandas scikit-learn joblib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/spam-detection-svm.git
+   git clone https://github.com/pari006/spam-detection-svm.git
    cd spam-detection-svm
